@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Numpy   Pandas and Machine Leaning and Deep Learning**
+- 👨‍💻 All of my projects are available at [https://github.com/BhukyaSrinu01](https://github.com/BhukyaSrinu01)
+
+- 💬 Ask me about **Numpy, Pandas and Machine Leaning and Deep Learning**
 
 - 📫 How to reach me **srinubhukyads@gmail.com**
 
