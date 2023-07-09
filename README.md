@@ -1,7 +1,7 @@
-[![MasterHead](C:\Users\Shiva\Downloads\FSDS---srinu\212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)](https://github.com/BhukyaSrinu01)
+ [![MasterHead](https://dribbble.com/shots/5504725-Data-Analytics-Animation-Header)](https://github.com/BhukyaSrinu01)
 <h1 align="center">Hi 👋, I'm Bhukya Srinu</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align='right' alt='Coding' width='400' src='C:\Users\Shiva\Downloads\FSDS---srinu\Github Banner.gif'
+<img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhukyasrinu01&label=Profile%20views&color=0e75b6&style=flat" alt="bhukyasrinu01" /> </p>
 
