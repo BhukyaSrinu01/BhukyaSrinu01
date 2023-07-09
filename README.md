@@ -1,4 +1,4 @@
- [![MasterHead](https://dribbble.com/shots/5504725-Data-Analytics-Animation-Header)](https://github.com/BhukyaSrinu01)
+ [![MasterHead](https://raw.githubusercontent.com/SHWETADKULKARNI/SHWETADKULKARNI/main/Github%20Banner.gif)](https://github.com/BhukyaSrinu01)
 <h1 align="center">Hi 👋, I'm Bhukya Srinu</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'
