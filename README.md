@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhukyasrinu01&label=Profile%20views&color=0e75b6&style=flat" alt="bhukyasrinu01" /> </p>
 
-- 🌱 I’m currently learning **Numpy, Pandas, Matplotlib, Seaborn, NLP, Machine Learning, Deep Learning, OpenCV, Tensorflow**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Data Science and Machine Leaning and Deep Learning**
+- 💬 Ask me about **Numpy   Pandas and Machine Leaning and Deep Learning**
 
 - 📫 How to reach me **srinubhukyads@gmail.com**
 
